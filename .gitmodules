@@ -1,0 +1,6 @@
+[submodule "ext/cat1js"]
+	path = ext/cat1js
+	url = git@github.com:wpumacay/cat1js.git
+[submodule "extjs/datgui"]
+	path = extjs/datgui
+	url = https://github.com/dataarts/dat.gui.git
